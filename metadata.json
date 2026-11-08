@@ -1,0 +1,8 @@
+{
+  "name": "CLB Yêu Sinh Học Cô Huyền Anh - Huyen Anh Education",
+  "description": "Hệ thống quản lý điểm thi, nhập liệu nhận xét theo mã chuẩn hóa, xuất phiếu nhận xét học sinh và phân tích phổ điểm luyện thi Sinh học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
